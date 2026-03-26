@@ -1,0 +1,7 @@
+{
+  "prompt": "A single-frame emotional editorial image of a fifth birthday party table arranged for fourteen small children, but one chair is empty and one place setting is untouched, soft natural daylight, realistic, quiet grief, subtle details, birthday cake, paper hats, gentle composition, no text, no labels, no chart, no infographic, no map, no collage, no split screen. Negative prompt: blurry, extra chairs, extra children, distorted hands, text, watermark, infographic, chart, labels, collage, split panel.",
+  "model": "DALL·E 3",
+  "dataset_name": "UNICEF DATA / UN IGME under-five mortality rate",
+  "dataset_url": "https://data.unicef.org/resources/dataset/child-mortality/",
+  "insight": "In 2024, 1 in 14 children in Sub-Saharan Africa died before reaching their fifth birthday."
+}
