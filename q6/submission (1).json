@@ -1,0 +1,6 @@
+{
+  "prompt": "Photorealistic documentary-style scene inside a locksmith workshop. On a wooden workbench, one antique brass lock is visibly warped, scratched, and slightly deformed from years of use. In front of it lies a single hand-filed brass key with many tiny irregular teeth, clearly customized to every defect of that one damaged lock. Next to them, four clean standard brass locks of the same design sit unopened because the over-specialized key does not fit them properly. Real locksmith tools, metal filings, realistic wood grain, natural window light, shallow depth of field, high detail, physically plausible materials, restrained composition, no faces. No text, no numbers, no labels, no diagrams, no equations, no charts, no watermark, no glowing effects, no sci-fi elements, no floating UI.",
+  "model": "OpenAI image generation via ChatGPT (replace with the exact displayed model/version if your form requires it)",
+  "concept": "overfitting",
+  "metaphor": "A locksmith has filed one key to match every scratch of a damaged lock; beside it, the same key fails on ordinary locks."
+}
