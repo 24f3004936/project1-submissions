@@ -1,0 +1,11 @@
+{
+  "prompt": "Single-frame 19th-century naturalist scientific plate illustrating the machine learning concept of gradient descent. Depict a steep topographic loss surface as if observed and documented by a Victorian naturalist: an oblique basin with engraved contour lines, hand-inked stippling, and delicate cross-hatching. Show a clearly marked descent path from a high ridge down toward the basin minimum with numbered stages, small arrows, and step sizes that shrink as the path nears the minimum. Integrate scholarly marginalia, plate number, scale bar, handwritten specimen-style annotations, and restrained labels such as learning rate, iteration, slope, and global minimum. Use muted sepia, olive, slate-blue, and parchment tones with subtle watercolor washes over precise linework. Composition should feel like a 19th-century field-study illustration or natural-history plate: balanced, observational, taxonomic, and scientifically elegant. No modern UI, no glossy 3D rendering, no photorealism, no neon colors, no contemporary typography, no collage, no multiple panels.",
+  "model": "OpenAI image generation via ChatGPT (exact version not exposed)",
+  "concept": "gradient descent",
+  "tradition_name": "19th-century naturalist illustration",
+  "tradition_period": "19th century (1800s)",
+  "tradition_approach": "Engraved linework, specimen-plate annotations, muted watercolor washes, and Victorian scientific labeling make the loss surface read like a natural-history study while keeping the descent path legible as gradient descent.",
+  "dataset_name": "Conceptual illustration only (no external dataset used)",
+  "dataset_url": "https://en.wikipedia.org/wiki/Gradient_descent",
+  "insight": "The image explains gradient descent as a stepwise descent on a loss surface toward a minimum, with diminishing movement near convergence."
+}
